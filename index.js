@@ -1,4 +1,4 @@
-function doToElementsInArray(changeCompletely){
+function doToElementsInArray(array,changeCompletely){
   array.forEach(changeCompletely)
 }
 
